@@ -1,13 +1,10 @@
-## Python Threading and Audio Recording
-------
+# Python Threading and Audio Recording
 
-##Prerequisites
-------
+## Prerequisites
 
 * Python 2.7
 
 ## Installing
------
 
 
 **Microsoft Windows**
